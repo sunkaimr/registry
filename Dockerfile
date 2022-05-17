@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/ingress-nginx/controller:v1.1.0
+FROM gcr.io/knative-releases/knative.dev/serving/cmd/activator@sha256:ca607f73e5daef7f3db0358e145220f8423e93c20ee7ea9f5595f13bd508289a
 

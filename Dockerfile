@@ -1,2 +1,2 @@
-FROM gcr.io/knative-releases/knative.dev/serving/cmd/domain-mapping-webhook@sha256:d0cc86f2002660c4804f6e0aed8218d39384c73a8b5006c9ac558becd8f48aa6
+FROM gcr.io/knative-releases/knative.dev/serving/cmd/webhook@sha256:bd954ec8ced56e359bd4f60ee1886b20000df14126688c796383a3ae40cfffc0
 
